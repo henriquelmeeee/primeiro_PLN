@@ -1,3 +1,6 @@
+# OBS: Gradient descent arent working
+# its more likely a prototype for learning 
+
 import random, time
 
 NUMERO_NEURONIOS = 128
